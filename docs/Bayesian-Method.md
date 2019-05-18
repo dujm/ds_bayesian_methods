@@ -5,8 +5,8 @@ title: Bayesian Methods
 
 #### Compare Bayesian vs frequentist statistics probability
 
-|   |Frequentist   | |Bayesian   |   
-|---|---|---|
+|   |Frequentist  | |Bayesian   |   
+|---|---|---|---|
 |Concept |Relative frequency of an event | |Bayes theorem   |
 |Information |Data | |Data + Prior |
 |Data   |Vary   | |Fixed   |
