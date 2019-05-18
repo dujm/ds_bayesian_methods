@@ -4,6 +4,7 @@ title: Bayesian Methods
 
 
 #### Compare Bayesian vs frequentist statistics probability
+
 |   |Frequentist   | |Bayesian   |   
 |---|---|---|
 |Concept |Relative frequency of an event | |Bayes theorem   |
@@ -31,7 +32,9 @@ Sampling posterior distributions in Bayesian models is computationally expensive
 
 <br>
 <br>
+
 ---
-#### References
-[Relationship between bayesian statistics and machine learning](https://www.quora.com/Whats-the-relationship-between-bayesian-statistics-and-machine-learning)
-[Introduction to Bayesian Statistics Slides by Korner](https://slideplayer.com/slide/9158781/)
+
+#### References  
+* [Relationship between bayesian statistics and machine learning](https://www.quora.com/Whats-the-relationship-between-bayesian-statistics-and-machine-learning)
+* [Introduction to Bayesian Statistics Slides by Korner](https://slideplayer.com/slide/9158781/)
