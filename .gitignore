@@ -7,12 +7,8 @@ keys.txt
 # Data (proprietary, personal information ... ) that should not be shared
 data/raw
 
-
-# If use Jupyter Notebooks:
-notebooks/.ipynb_checkpoints
-
-*.draft.md
-draft/
+.ipynb_checkpoints
+*draft
 *DS_Store
 *.zip
 *.csv
